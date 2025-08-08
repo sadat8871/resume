@@ -1,2 +1,0 @@
-# resume
-sadat_resume
